@@ -1,2 +1,2 @@
 # Algorithms
-max necessary and  all discussed algorithms in class will be updated here.
+max used algorithms in competitive programming and  all discussed algorithms in class will be updated here.
